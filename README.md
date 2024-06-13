@@ -1,5 +1,10 @@
-## Hi there 👋
-
+👋 Hi! I’m Mohammad Ashfaq Hossain Bhuiyan, a passionate Computer Science and Engineering student at Ahsanullah University of Science and Technology. 🚀
+🔍 About Me:
+💡 Enthusiastic about software development, algorithms, and problem-solving.
+🌐 Proficient in languages like Java, C++, C, and Dart.
+🌟 Amature photographer, cinematographer and editor.
+🌱 Always eager to learn and explore new technologies.
+🌐 Connect with me! Let’s discuss tech, projects, or anything related to the digital world. 🤝
 <!--
 **AshfaqDurjoy/AshfaqDurjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

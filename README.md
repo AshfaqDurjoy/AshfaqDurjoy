@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <p style="font-size: 50px;">👋 Hi! I’m Mohammad Ashfaq Hossain Bhuiyan</p>
+  <p><h1>👋 Hi! I’m Mohammad Ashfaq Hossain Bhuiyan</h1></p>
 </div>
 
 <p>🔍 About Me:</p>

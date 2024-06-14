@@ -15,6 +15,7 @@
         <li>Java</li>
         <li>C++</li>
         <li>Dart</li>
+        <li>C</li>
     </ul>
     <h1>Development Tools:</h1>
     <ul>
